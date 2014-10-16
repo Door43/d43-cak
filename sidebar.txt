@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cak:home|Door43 (cak)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cak|d43-cak repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cak/archive/master.zip|d43-cak.zip]]
+
+**Recent Changes**
+{{changes>ns = cak}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cak|Ethnologue data]]
+
